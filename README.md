@@ -18,29 +18,51 @@ I have over **15 years of experience** working at the intersection of **finance,
 
 ## 🛠️ Technical Stack
 
-### 📊 Data & Analytics
-- Python, Pandas, DuckDB
-- SQL (advanced analytical queries)
-- Financial analytics and KPIs
+### 📊 Data Science & Analytics
+- Python (Pandas, analytical workflows)
+- Advanced SQL (analytical and performance-optimized queries)
+- Statistical analysis and financial analytics
+- KPI design and performance indicators
 
-### 🏗️ Data Engineering
-- PostgreSQL, SQLite
-- Parquet-based data pipelines
-- Prefect for ETL orchestration
-- Data Warehouse modeling (dimensional models)
+### 🏗️ Data Engineering & Data Architecture
+- Data pipeline design (ETL / ELT)
+- Data Warehousing (dimensional modeling)
+- Parquet-based analytical pipelines
+- Data quality, validation, and governance
+- Large-scale financial and operational datasets
 
-### 🔌 Backend & APIs
+### ☁️ Cloud & Data Platforms
+- Google Cloud Platform (GCP)
+  - BigQuery
+- Amazon Web Services (AWS)
+- Microsoft Fabric
+- Cloud-based analytical architectures
+
+### 🔄 Orchestration & Infrastructure
+- Prefect (data pipeline orchestration)
+- Terraform (Infrastructure as Code)
+- Automation of analytical and financial workflows
+
+### 🔌 Backend & Analytics APIs
 - FastAPI
-- Analytics-ready APIs for BI and dashboards
+- Analytics-ready APIs for BI and applications
+- Data services for dashboards and decision systems
 
-### 📈 BI & Visualization
+### 📈 Business Intelligence & Visualization
 - Power BI
-- Financial dashboards (DRE, revenue, costs, margins)
+- Executive dashboards and management reports
+- Financial analytics (DRE, revenue, costs, margins)
+- Decision support and performance monitoring
 
-### ⚙️ Other
+### 🧠 Data Governance & Quality
+- Data governance principles
+- Data quality management
+- Analytical data consistency and traceability
+
+### ⚙️ Other Tools & Environments
 - Git & GitHub
 - Linux environments
-- Cloud-ready architectures
+- Advanced Excel (financial modeling & validation)
 
 ---
 
